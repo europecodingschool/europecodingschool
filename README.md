@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/europecodingschool/.github/main/profile/logo6.png" alt="Europe Coding School" width="420"/>
+<img src="https://raw.githubusercontent.com/europecodingschool/.github/main/profile/logo(6).png" alt="Europe Coding School" width="420"/>
 
 # Europe Coding School
 
